@@ -8,6 +8,8 @@ int main()
     std::cout << "Hello Git Hub!\n";
 
     std::cout << "New branch\n";
+
+    std::cout << "New branch2\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー

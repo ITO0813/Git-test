@@ -10,6 +10,8 @@ int main()
     std::cout << "New branch\n";
 
     std::cout << "PullRequest branch changed\n";
+
+	std::cout << "プルしてください\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー

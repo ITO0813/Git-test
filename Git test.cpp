@@ -12,6 +12,8 @@ int main()
     std::cout << "PullRequest branch changed\n";
   
 	std::cout << "プルしてください\n";
+
+    std::cout << "プッシュしました\n";
     
 }
 
